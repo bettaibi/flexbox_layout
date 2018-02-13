@@ -1,0 +1,8 @@
+/* You can add global styles to this file, and also import other style files */
+body {
+    margin: 0;
+    background: #fff;
+    font-family: NotoSansJP,Slack-Lato,appleLogo,sans-serif;
+    color: #926239;
+    line-height: 1.6;
+  }
